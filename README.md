@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Royal Purple Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,35:4C1D95,70:6A0DAD,100:B266FF&height=160&section=header&text=Soham%20Thorat&fontSize=48&fontColor=F3E8FF&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Computer%20Engineer%20%7C%20Data%20Scientist%20%7C%20Quant%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,35:4C1D95,70:6A0DAD,100:B266FF&height=160&section=header&text=tejas%20Nirgude&fontSize=48&fontColor=F3E8FF&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Computer%20Engineer%20%7C%20Data%20Scientist%20%7C%20Quant%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- Dynamic Animated Typing Subtext -->
 <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 
 <!-- Profile Views & Status Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThoratSoham&label=PROFILE%20VIEWS&color=6A0DAD&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nirgudetejas&label=PROFILE%20VIEWS&color=6A0DAD&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/FOCUS-QUANT%20%26%20DATA%20SCIENCE-2E003E?style=for-the-badge&logo=python&logoColor=C084FC" alt="Focus"/>
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20ALPHA-4C1D95?style=for-the-badge&logo=git&logoColor=F3E8FF" alt="Status"/>
 </p>
@@ -22,9 +22,9 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> About Me
 
 ```python
-class SohamThorat:
+class tejasNirgude:
     def __init__(self):
-        self.name = "Soham Thorat"
+        self.name = "Tejas Nirgude"
         self.role = "Aspiring Computer Engineer | Data Scientist | Quant Trader"
         self.location = "Pune, Maharashtra, India 🇮🇳"
         self.core_stack = ["Python", "SQL", "R", "C++", "MQL5", "PineScript"]
@@ -32,7 +32,7 @@ class SohamThorat:
         self.key_project = "UPI Shield — Security Middleware for Digital Payments 🛡️"
         self.philosophy = "Where data meets discipline, alpha follows."
 
-me = SohamThorat()
+me = tejasNirgude()
 ```
 
 - 🔭 **Currently Engineering:** Advanced Data Science pipelines & Quantitative Trading strategies
@@ -90,7 +90,7 @@ me = SohamThorat()
 
 <!-- Royal Purple Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThoratSoham&theme=high-contrast&hide_border=true&bg_color=0D0221&color=C084FC&line=8A2BE2&point=F3E8FF&area=true&area_color=6A0DAD" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirgudetejas&theme=high-contrast&hide_border=true&bg_color=0D0221&color=C084FC&line=8A2BE2&point=F3E8FF&area=true&area_color=6A0DAD" width="100%" alt="Activity Graph"/>
 </p>
 
 </div>
@@ -102,16 +102,16 @@ me = SohamThorat()
 <div align="center">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soham-thorat-8505531b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/tejas-Nirgude-8505531b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=C084FC" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/sohamthorat_/" target="_blank">
+  <a href="https://www.instagram.com/tejasNirgude_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1A0B2E?style=for-the-badge&logo=instagram&logoColor=C084FC" alt="Instagram"/>
   </a>
-  <a href="https://x.com/SohamThorat_" target="_blank">
+  <a href="https://x.com/tejasNirgude_" target="_blank">
     <img src="https://img.shields.io/badge/𝕏_(Twitter)-1A0B2E?style=for-the-badge&logo=x&logoColor=C084FC" alt="X (Twitter)"/>
   </a>
-  <a href="https://github.com/ThoratSoham" target="_blank">
+  <a href="https://github.com/Nirgudetejas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=C084FC" alt="GitHub"/>
   </a>
 </p>
