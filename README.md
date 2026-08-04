@@ -19,7 +19,7 @@
 
 <hr/>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> About Me
+## <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZDA0OHM3MjhoYnY0OXllNDlnMzB4dHZoMm5wNWk3ZW5sYm41eTNiZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XZy2SbQTJEm7q4KeEm/source.gif)" width="28"> About Me
 
 ```python
 class TejasNirgude:
