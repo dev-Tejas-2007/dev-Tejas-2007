@@ -121,7 +121,7 @@ me = TejasNirgude()
 <div align="center">
 
 <!-- Royal Purple Compact Waving Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B266FF,35:6A0DAD,70:4C1D95,100:1A0B2E&height=90&section=footer" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:B266FF,35:6A0DAD,70:4C1D95,100:1A0B2E&height=90&section=footer](https://giphy.com/explore/hand-hi)" width="100%"/>
 
 > **"Unleashing Creativity — one dataset, one strategy, one line of code at a time." 👑**
 
