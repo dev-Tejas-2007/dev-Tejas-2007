@@ -10,7 +10,7 @@
 
 <!-- Profile Views & Status Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nirgudetejas&label=PROFILE%20VIEWS&color=6A0DAD&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=dev-Tejas-2007&label=PROFILE%20VIEWS&color=6A0DAD&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/FOCUS-QUANT%20%26%20DATA%20SCIENCE-2E003E?style=for-the-badge&logo=python&logoColor=C084FC" alt="Focus"/>
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20ALPHA-4C1D95?style=for-the-badge&logo=git&logoColor=F3E8FF" alt="Status"/>
 </p>
@@ -90,7 +90,7 @@ me = tejasNirgude()
 
 <!-- Royal Purple Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirgudetejas&theme=high-contrast&hide_border=true&bg_color=0D0221&color=C084FC&line=8A2BE2&point=F3E8FF&area=true&area_color=6A0DAD" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-Tejas-2007&theme=high-contrast&hide_border=true&bg_color=0D0221&color=C084FC&line=8A2BE2&point=F3E8FF&area=true&area_color=6A0DAD" width="100%" alt="Activity Graph"/>
 </p>
 
 </div>
