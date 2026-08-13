@@ -24,12 +24,12 @@
 ```python
 class TejasNirgude:
     def __init__(self):
-        self.name = "Tejas Nirgude"
+        self.name = "Tejas Nirgude , yes i am noob in coding "
         self.role = "Aspiring Computer Engineer | Data Scientist | Quant Trader"
         self.location = "Pune, Maharashtra, India 🇮🇳"
-        self.core_stack = ["Python", "SQL", "R", "C++", "MQL5", "PineScript"]
-        self.ml_toolkit = ["Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Jupyter"]
-        self.key_project = "UPI Shield — Security Middleware for Digital Payments 🛡️"
+        self.core_stack = ["Python", "SQL", "R", "C++", "MQL5", "PineScript", I never even try all this language's]
+        self.ml_toolkit = ["Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Jupyter", I don't know why there is animal & planet name in this ]
+        self.key_project = "UPI Shield — Security Middleware for Digital Payments 🛡️ ,this is not my i just write this for show off "
         self.philosophy = "Where data meets discipline, alpha follows."
 
 me = TejasNirgude()
